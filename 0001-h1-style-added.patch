@@ -1,0 +1,22 @@
+From da52ecf3500e852e1e9130889c467fd28fccf81d Mon Sep 17 00:00:00 2001
+From: achut dahal <151587772+gitlearnerpro@users.noreply.github.com>
+Date: Mon, 27 Nov 2023 20:56:59 -0500
+Subject: [PATCH] h1 style added
+
+---
+ style.css | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/style.css b/style.css
+index ca84548..01801c7 100644
+--- a/style.css
++++ b/style.css
+@@ -18,4 +18,5 @@ h1 {
+ 
+ /* Applies to the element with <... id="someid"> specified. */
+ #someid { color: green; }
++h1{font-size: 30px;}
+ 
+-- 
+2.43.0
+
